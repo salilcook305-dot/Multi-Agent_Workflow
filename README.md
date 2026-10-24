@@ -136,7 +136,7 @@ npm run dev
 
 ---
 
-## 🔑 API Keys & Integrations (Optional)
+## 🔑 API Keys & Integrations
 
 Configure via `.env` or in the UI by clicking **"Settings & Keys"**:
 - **MongoDB Atlas**: Cluster connection string (`mongodb+srv://...`)
